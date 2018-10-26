@@ -3,11 +3,11 @@
 端口默认：8080
 context-path: helloworld
 
-两个访问路径：
+两个访问路径： 
 http://localhost:8080/helloworld/index
-http://localhost:8080/helloworld/list
+http://localhost:8080/helloworld/list 
 
-日志记录在data/logs下。主要是切面拦截的web访问日志。
+日志记录在data/logs下。主要是切面拦截的web访问日志。  
 
 --------------------------------------------------
 将程序打包后，放到目录如下
