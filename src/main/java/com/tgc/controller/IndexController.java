@@ -20,7 +20,7 @@ public class IndexController {
 	}
 	
 	/**
-	 * Ê¹ÓÃjstl
+	 * ä½¿ç”¨jstl
 	 * @return
 	 */
 	@RequestMapping("/list")
